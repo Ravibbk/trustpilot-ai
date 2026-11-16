@@ -6,6 +6,8 @@ A production-quality fintech platform that combines KYC, KYB, document verificat
 
 > **Portfolio Demonstration** — Uses modular mock provider adapters (OCR, Liveness, AML). Does not certify regulatory KYC/AML compliance without real third-party vendor credentials. The architecture is designed so real providers can be swapped in later.
 
+Live Demo: https://trustpilot-ai.onrender.com
+
 ---
 
 ## Table of Contents
