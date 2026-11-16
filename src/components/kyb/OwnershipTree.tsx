@@ -121,3 +121,4 @@ export function OwnershipTree({ companyName, directors, beneficialOwners }: Owne
     </div>
   );
 }
+

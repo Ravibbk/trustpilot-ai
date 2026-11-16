@@ -96,3 +96,4 @@ describe('Workflow & Provider Integration Tests', () => {
     expect(latestLog.details).toContain('Identity reconciled');
   });
 });
+

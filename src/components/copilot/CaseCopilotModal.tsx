@@ -234,3 +234,4 @@ export function CaseCopilotModal({ caseData, isOpen, onClose, onApplyAction }: C
     </div>
   );
 }
+

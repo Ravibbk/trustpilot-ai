@@ -114,3 +114,4 @@ Verification providers conform to strict interfaces. For production deployment, 
 - `DocumentProvider`: Optical blur, glare, and resolution analysis with OCR field parsing.
 - `LivenessProvider`: 3D depth estimation, facial landmark verification, and anti-spoofing.
 - `AMLProvider`: Screening against global sanctions (OFAC, EU, UN) and PEP lists.
+

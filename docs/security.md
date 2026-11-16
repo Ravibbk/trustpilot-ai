@@ -29,3 +29,4 @@ Permissions are enforced server-side within API middleware:
 Audit records conform to write-once properties:
 - Structured schema: `timestamp`, `userId`, `userRole`, `action`, `entityType`, `entityId`, `details`, `ipAddress`.
 - Zero in-place updates: Every decision, override, or rule update appends a new record to the audit sequence.
+

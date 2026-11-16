@@ -52,3 +52,4 @@ NEXT_PUBLIC_APP_URL=https://trustpilot-ai.example.com
 - **Vercel:** Single-click zero-config Next.js deployment.
 - **Render / Railway / Fly.io:** Node.js standalone server with automated HTTPS and Docker support.
 - **AWS / GCP:** ECS / Cloud Run with managed PostgreSQL (RDS / Cloud SQL).
+

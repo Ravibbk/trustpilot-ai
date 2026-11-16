@@ -297,3 +297,4 @@ class MemoryDatabase {
 const globalForDb = globalThis as unknown as { db: MemoryDatabase };
 export const db = globalForDb.db || new MemoryDatabase();
 if (process.env.NODE_ENV !== 'production') globalForDb.db = db;
+

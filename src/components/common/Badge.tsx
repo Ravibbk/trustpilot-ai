@@ -81,3 +81,4 @@ export function StatusBadge({ status }: { status: CaseStatus | OnboardingStatus 
     </Badge>
   );
 }
+

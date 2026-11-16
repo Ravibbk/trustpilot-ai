@@ -70,3 +70,4 @@ The platform employs **adaptive progressive verification**:
 - **Performance:** Sub-100ms API response latency; client bundle under 100kB first-load JS.
 - **Accessibility:** WCAG 2.1 AA compliant, keyboard-navigable, high contrast ratio.
 - **Reliability:** Decoupled mock provider adapters allowing swap-in of live vendors (Jumio, Onfido, Sumsub, ComplyAdvantage) without architecture changes.
+

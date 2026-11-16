@@ -17,3 +17,4 @@ The interface is designed with a **calm, trustworthy, modern fintech aesthetic**
 ## 3. High-Density Analyst Workspace
 - Designed for speed: two-column layout keeps case timeline, signal decomposition, and document extraction simultaneously visible.
 - Instant access to AI Copilot drawer for fast querying without losing context.
+

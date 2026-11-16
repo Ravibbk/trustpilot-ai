@@ -201,3 +201,4 @@ Test coverage includes:
 ## 9. Regulatory & Positioning Disclosure
 
 *TrustPilot AI is an advanced fintech product simulation and portfolio demonstration platform. It includes modular mock verification provider adapters for identity matching, OCR parsing, 3D biometrics, and AML screening. It does not claim legally certified KYC/AML compliance without integration to licensed third-party verification providers.*
+

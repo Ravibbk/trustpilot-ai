@@ -30,3 +30,4 @@ The analyst copilot adheres to strict boundaries:
 - **Zero Hallucination:** Inability to invent external credit scores or non-existent criminal records.
 - **Evidence Citation:** Answers include explicit tags referencing the physical document or telemetry log.
 - **Confidence Calibration:** Low confidence indicators trigger warnings advising the analyst to seek secondary human sign-off.
+

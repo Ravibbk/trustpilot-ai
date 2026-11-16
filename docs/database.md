@@ -105,3 +105,4 @@ TrustPilot AI is designed around a fully normalized relational schema, compatibl
 - `entity_id` (VARCHAR(50), NOT NULL)
 - `details` (TEXT, NOT NULL)
 - `ip_address` (VARCHAR(45), NOT NULL)
+

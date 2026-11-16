@@ -230,3 +230,4 @@ export default function CasesQueuePage() {
     </div>
   );
 }
+

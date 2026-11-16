@@ -671,3 +671,4 @@ export default function CustomerOnboardingPage() {
     </div>
   );
 }
+
