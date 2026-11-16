@@ -9,43 +9,37 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        // Keep brand as blue-600 equivalents for backward compatibility
         brand: {
-          50: "#f0f7ff",
-          100: "#e0effe",
-          200: "#bae0fd",
-          300: "#7cc5fb",
-          400: "#36a5f7",
-          500: "#0c87eb",
-          600: "#026ac8",
-          700: "#0354a2",
-          800: "#074785",
-          900: "#0c3b6e",
-          950: "#082649",
-        },
-        slate: {
-          850: "#172033",
-          900: "#0f172a",
-          950: "#090d16",
+          50: "#eff6ff",
+          100: "#dbeafe",
+          200: "#bfdbfe",
+          300: "#93c5fd",
+          400: "#60a5fa",
+          500: "#3b82f6",
+          600: "#2563eb",
+          700: "#1d4ed8",
+          800: "#1e40af",
+          900: "#1e3a8a",
+          950: "#172554",
         },
         risk: {
-          low: "#10b981",
-          medium: "#f59e0b",
-          high: "#f97316",
-          critical: "#ef4444",
-        }
+          low: "#16a34a",
+          medium: "#d97706",
+          high: "#ea580c",
+          critical: "#dc2626",
+        },
       },
       fontFamily: {
-        sans: ["Inter", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "sans-serif"],
-        mono: ["JetBrains Mono", "Menlo", "Monaco", "Consolas", "monospace"],
+        sans: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"],
+        mono: ["ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "monospace"],
       },
       boxShadow: {
-        subtle: "0 1px 3px 0 rgba(0, 0, 0, 0.05), 0 1px 2px 0 rgba(0, 0, 0, 0.03)",
-        card: "0 2px 4px -1px rgba(0, 0, 0, 0.06), 0 4px 6px -1px rgba(0, 0, 0, 0.08)",
-        elevation: "0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04)",
-      }
+        subtle: "0 1px 2px 0 rgba(0, 0, 0, 0.04)",
+        card: "0 1px 3px 0 rgba(0, 0, 0, 0.06), 0 1px 2px -1px rgba(0, 0, 0, 0.04)",
+      },
     },
   },
   plugins: [],
 };
 export default config;
-
